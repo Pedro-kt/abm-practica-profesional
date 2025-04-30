@@ -48,20 +48,7 @@ El archivo .zip contiene los siguientes elementos:
 
   Ejecutar el archivo main.kt.
 
-📦 Estructura del código
-
-/src
-├── GestorUsuarios.kt
-├── Main.kt
-├── FuncionesDelPrograma.kt
-├── parsearJson.kt
-├── Usuarios.kt
-├── UsuariosParaPractica.json
-README.md
-
-
 🧑‍💻 Autor
-
 Pedro Bustamante | Github: Pedro-kt
 
 Este proyecto fue desarrollado con fines educativos, como parte de la materia Prácticas Profesionalizantes I.
