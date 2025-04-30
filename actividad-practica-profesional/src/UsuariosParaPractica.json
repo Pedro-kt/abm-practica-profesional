@@ -1,0 +1,14 @@
+[
+    {
+        "apellido": "Bustamante",
+        "correo": "pedrito@gmail.com",
+        "nombre": "Pedro",
+        "contraseña": "12345"
+    },
+    {
+        "apellido": "Gomez",
+        "correo": "eduardo@gmail.com",
+        "nombre": "Eduardo",
+        "contraseña": "abcde"
+    }
+]
