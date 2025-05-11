@@ -1,18 +1,8 @@
-Sistema ABM de Usuarios en Kotlin
+## Sistema ABM de Usuarios en Kotlin
 
 Este proyecto es una aplicación de consola desarrollada en Kotlin que permite realizar operaciones básicas de ABM (Alta, Baja, Modificación) sobre una lista de usuarios almacenados en un archivo JSON.
 
-📁 Contenido del ZIP
-
-El archivo .zip contiene los siguientes elementos:
-
-  src/: Carpeta con los archivos fuente del programa (main.kt, GestorUsuarios.kt, etc.).
-
-  UsuariosParaPractica.json: Archivo con datos iniciales de usuarios en formato JSON (Contiene 2 usuarios).
-
-  README.md: Este archivo de documentación.
-
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
   Kotlin
     
@@ -24,7 +14,7 @@ El archivo .zip contiene los siguientes elementos:
     
   Programación Orientado a Objetos
 
-🚀 ¿Qué funcionalidades incluye?
+## 🚀 ¿Qué funcionalidades incluye?
 
   ✅ Dar de alta un usuario con nombre, apellido, correo (con validación de @) y contraseña.
 
@@ -38,9 +28,13 @@ El archivo .zip contiene los siguientes elementos:
 
   🧾 Validaciones para evitar errores por entradas inválidas en el menú o en los datos.
 
-▶️ Cómo ejecutarlo
+## ▶️ Cómo ejecutarlo
 
-  Descomprimir el archivo .zip.
+  Podes clonar el repositorio: git clone https://github.com/Pedro-kt/abm-practica-profesional.git
+
+  O descargar el archivo .zip
+
+  Descomprimir el archivo
 
   Abrir el proyecto en IntelliJ IDEA (u otro entorno compatible con Kotlin como ser Android Studio, Eclipse con plugin, VS Code con extensiones o NetBeans).
 
